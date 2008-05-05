@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "acts_as_list"
-  s.version = "2.0.7842"
+  s.version = "2.0.7843"
   s.date = "2008-05-04"
   s.summary = "Gemified rails acts_as_list plugin"
   s.email = "avanie@gmail.com"
